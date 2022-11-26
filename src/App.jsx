@@ -1,6 +1,6 @@
-import ReacChildrenPrac from './components/ReactChildren'
+import ReacChildrenPrac from './components/ReactChildren/ReactChildren'
 import "./index.css"
-import HigerOrderFunc from './components/HigerOrderFunc'
+import HigerOrderFunc from './components/HigherOrderComps/HigerOrderFunc'
 
 function App() {
  return(
