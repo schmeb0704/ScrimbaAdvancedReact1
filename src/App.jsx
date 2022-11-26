@@ -1,11 +1,13 @@
 import ReacChildrenPrac from './components/ReactChildren/ReactChildren'
 import "./index.css"
-import HigerOrderFunc from './components/HigherOrderComps/HigerOrderFunc'
+import Icons from './components/HigherOrderComps/heart'
+import Like from "./components/HigherOrderComps/like"
 
 function App() {
  return(
     <>
-      <HigerOrderFunc favPhrase="izza lmao" />
+      <Icons />
+      <Like />
     </>
  )
 }

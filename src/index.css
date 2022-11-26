@@ -12,3 +12,15 @@ h1{
   padding: 20px;
   background-color: #c0fffe;
 }
+
+.bx{
+  font-size: 50px;
+}
+
+.bxs-heart{
+  color: rgb(241, 95, 120);
+}
+
+.bxs-like{
+  color: rgb(55, 55, 252);
+}
