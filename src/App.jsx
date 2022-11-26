@@ -5,7 +5,7 @@ import Card from "./components/Card"
 function App() {
  return(
     <>
-      <Card cardColor={45}/>
+      <Card />
     </>
  )
 }

@@ -15,8 +15,8 @@ export default function Card(props){
   )
 }
 
-Card.propType = {
-  cardColor: PropTypes.string
+Card.propTypes = {
+  cardColor: PropTypes.string.isRequired
 }
 
 Card.defaultProps = {
