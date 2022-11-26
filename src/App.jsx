@@ -1,10 +1,11 @@
 import ReacChildrenPrac from './components/ReactChildren'
 import "./index.css"
+import HigerOrderFunc from './components/HigerOrderFunc'
 
 function App() {
  return(
     <>
-      <ReacChildrenPrac />
+      <HigerOrderFunc favPhrase="izza lmao" />
     </>
  )
 }
