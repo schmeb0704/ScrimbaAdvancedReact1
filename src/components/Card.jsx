@@ -16,7 +16,7 @@ export default function Card(props){
 }
 
 Card.propTypes = {
-  cardColor: PropTypes.oneOf(["blue", "red"]),
+  cardColor: PropTypes.oneOf(["blue", "red"]).isRequired,
   height: PropTypes.number,
   width: PropTypes.number,
 
